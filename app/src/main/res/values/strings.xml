@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="tetris">TETRIS</string>
+    <string name="high_score_only">Score:</string>
+    <string name="high_score_default">Score: 0</string>
+    <string name="high_score">Score: %1$s</string>
+    <string name="new_game">New game</string>
+    <string name="reset_score">Score</string>
+    <string name="exit">exit</string>
+    <string name="current_score_only">Score:</string>
+    <string name="current_score">Current score: %1$s</string>
+    <string name="btn_restart">Restart</string>
+    <string name="high_score_text_landing_screen">SCORE:</string>
+    <string name="null_value_for_start_score">0</string>
+    <string name="tetris_logo">TETRIS</string>
+
+</resources>
